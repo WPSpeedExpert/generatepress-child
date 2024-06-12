@@ -15,7 +15,7 @@ https://github.com/WPSpeedExpert/generatepress-child/releases/latest
 
 ## Changelog
 
-### 0.7.0
+### 0.8
 * Released: June 12, 2024
 
 Initial release
