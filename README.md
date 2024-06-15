@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://wpspeedexpert.com/" target="_blank">
-    <img src="https://wpspeedexpert.com/wp-content/uploads/2024/06/WP-Speed-Expert-grey-3.webp">
+    <img src="https://wpspeedexpert.com/wp-content/uploads/2024/06/wpspeedexpert-dark-light-grey-400.webp">
   </a>
 </p>
 
