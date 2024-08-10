@@ -7,12 +7,13 @@
  */
 
  /**
- * Avoid loading style.css of the child theme
- */
- /** Uncomment if no custom CSS is used
-* add_action( 'wp_enqueue_scripts', function() {
-*     wp_dequeue_style( 'generate-child' );
-* }, 50 );
+  * Avoid loading style.css of the child theme
+  * Uncomment if no custom CSS is used
+  */
+/*
+add_action( 'wp_enqueue_scripts', function() {
+     wp_dequeue_style( 'generate-child' );
+ }, 50 );
  */
 
  add_filter( 'generate_copyright','wpspeedexpert_custom_copyright' );
@@ -24,9 +25,7 @@
 
 /**
  * Allow SVG uploads for administrator users.
- *
  * @param array $upload_mimes Allowed mime types.
- *
  * @return mixed
  */
 add_filter(
